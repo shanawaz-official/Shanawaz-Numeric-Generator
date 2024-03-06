@@ -1,4 +1,4 @@
-import itertool
+import itertools
 import pyfiglet
 
 toolname=pyfiglet.figlet_format("Shanawaz Numeric Password Wordlist Generator")
